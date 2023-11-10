@@ -18,7 +18,7 @@ Punto 1
 </p>
 
 <p align="center">
-  <img src="README-images\Punto1.PNG" alt="StepLast">
+  <img src="README-images\Punto10.PNG" alt="StepLast">
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ Punto 2
 </p>
 
 <p align="center">
-  <img src="README-images\Punto2.PNG" alt="StepLast">
+  <img src="README-images\Punto20.PNG" alt="StepLast">
 </p>
 <p align="center">
   <img src="README-images\Punto2-edge.PNG" alt="StepLast">
@@ -37,5 +37,5 @@ Punto 3
 </p>
 
 <p align="center">
-  <img src="README-images\Punto3.PNG" alt="StepLast">
+  <img src="README-images\Punto30.PNG" alt="StepLast">
 </p>
